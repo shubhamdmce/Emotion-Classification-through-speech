@@ -1,0 +1,6 @@
+the reqirements for this project are given below
+nltk 
+numpy
+matplotlib
+pandas
+natural language processing
